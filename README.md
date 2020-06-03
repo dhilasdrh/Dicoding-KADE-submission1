@@ -2,7 +2,7 @@
 
 This is my submission for the first assessment project in Dicoding "Kotlin Android Developer Expert" course. In the first part of this course, we learnt about Kotlin's introduction and basics, create Android applications with Kotlin, Kotlin Android Extensions, and Anko. To proceed to the next module, we must submit a project with several predefined criteria. The league data used is local data.
 
-### Application Criteria
+## Application Criteria
 
 Must-have features in the application:
 
@@ -19,3 +19,8 @@ Components that must be applied:
 * **Anko Layout** to arrange the appearance of all pages.
 
 * **Kotlin Android Extensions** to implement Parcelable or binding view.
+
+### The opportunity for your submission to be accepted will be greater if:
+
+* Implement RecyclerView, Anko Common, Anko Layout and Kotlin Android Extensions correctly.
+* Write the code clean.
